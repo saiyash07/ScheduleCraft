@@ -1,0 +1,186 @@
+[
+  {
+    "id": "cs101",
+    "code": "CS 101",
+    "name": "Introduction to Computer Science",
+    "department": "Computer Science",
+    "credits": 4,
+    "sections": [
+      {
+        "id": "cs101-a",
+        "sectionCode": "Sec A",
+        "instructor": "Dr. Alan Turing",
+        "timeslots": [
+          { "day": "Monday", "startTime": "09:00", "endTime": "10:20" },
+          { "day": "Wednesday", "startTime": "09:00", "endTime": "10:20" },
+          { "day": "Friday", "startTime": "09:00", "endTime": "10:20" }
+        ]
+      },
+      {
+        "id": "cs101-b",
+        "sectionCode": "Sec B",
+        "instructor": "Prof. Grace Hopper",
+        "timeslots": [
+          { "day": "Tuesday", "startTime": "10:00", "endTime": "11:50" },
+          { "day": "Thursday", "startTime": "10:00", "endTime": "11:50" }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "math101",
+    "code": "MATH 101",
+    "name": "Calculus I",
+    "department": "Mathematics",
+    "credits": 4,
+    "sections": [
+      {
+        "id": "math101-a",
+        "sectionCode": "Sec A",
+        "instructor": "Dr. Isaac Newton",
+        "timeslots": [
+          { "day": "Monday", "startTime": "09:00", "endTime": "10:20" },
+          { "day": "Wednesday", "startTime": "09:00", "endTime": "10:20" },
+          { "day": "Friday", "startTime": "09:00", "endTime": "10:20" }
+        ]
+      },
+      {
+        "id": "math101-b",
+        "sectionCode": "Sec B",
+        "instructor": "Dr. Gottfried Leibniz",
+        "timeslots": [
+          { "day": "Monday", "startTime": "13:00", "endTime": "14:20" },
+          { "day": "Wednesday", "startTime": "13:00", "endTime": "14:20" },
+          { "day": "Friday", "startTime": "13:00", "endTime": "14:20" }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "phys101",
+    "code": "PHYS 101",
+    "name": "Physics Mechanics",
+    "department": "Physics",
+    "credits": 4,
+    "sections": [
+      {
+        "id": "phys101-a",
+        "sectionCode": "Sec A",
+        "instructor": "Dr. Albert Einstein",
+        "timeslots": [
+          { "day": "Tuesday", "startTime": "08:30", "endTime": "09:50" },
+          { "day": "Thursday", "startTime": "08:30", "endTime": "09:50" }
+        ]
+      },
+      {
+        "id": "phys101-b",
+        "sectionCode": "Sec B",
+        "instructor": "Prof. Richard Feynman",
+        "timeslots": [
+          { "day": "Monday", "startTime": "10:30", "endTime": "11:50" },
+          { "day": "Wednesday", "startTime": "10:30", "endTime": "11:50" },
+          { "day": "Friday", "startTime": "10:30", "endTime": "11:50" }
+        ]
+      },
+      {
+        "id": "phys101-c",
+        "sectionCode": "Sec C",
+        "instructor": "Dr. Marie Curie",
+        "timeslots": [
+          { "day": "Tuesday", "startTime": "14:00", "endTime": "15:20" },
+          { "day": "Thursday", "startTime": "14:00", "endTime": "15:20" }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "lit101",
+    "code": "LIT 101",
+    "name": "Introduction to English Literature",
+    "department": "English",
+    "credits": 3,
+    "sections": [
+      {
+        "id": "lit101-a",
+        "sectionCode": "Sec A",
+        "instructor": "Prof. William Shakespeare",
+        "timeslots": [
+          { "day": "Monday", "startTime": "15:00", "endTime": "16:15" },
+          { "day": "Wednesday", "startTime": "15:00", "endTime": "16:15" }
+        ]
+      },
+      {
+        "id": "lit101-b",
+        "sectionCode": "Sec B",
+        "instructor": "Prof. Virginia Woolf",
+        "timeslots": [
+          { "day": "Tuesday", "startTime": "13:00", "endTime": "14:15" },
+          { "day": "Thursday", "startTime": "13:00", "endTime": "14:15" }
+        ]
+      },
+      {
+        "id": "lit101-c",
+        "sectionCode": "Sec C",
+        "instructor": "Dr. Toni Morrison",
+        "timeslots": [
+          { "day": "Friday", "startTime": "10:00", "endTime": "12:45" }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "cs102",
+    "code": "CS 102",
+    "name": "Data Structures & Algorithms",
+    "department": "Computer Science",
+    "credits": 4,
+    "sections": [
+      {
+        "id": "cs102-a",
+        "sectionCode": "Sec A",
+        "instructor": "Prof. Donald Knuth",
+        "timeslots": [
+          { "day": "Tuesday", "startTime": "10:00", "endTime": "11:50" },
+          { "day": "Thursday", "startTime": "10:00", "endTime": "11:50" }
+        ]
+      },
+      {
+        "id": "cs102-b",
+        "sectionCode": "Sec B",
+        "instructor": "Dr. Barbara Liskov",
+        "timeslots": [
+          { "day": "Monday", "startTime": "11:30", "endTime": "12:50" },
+          { "day": "Wednesday", "startTime": "11:30", "endTime": "12:50" },
+          { "day": "Friday", "startTime": "11:30", "endTime": "12:50" }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "chem101",
+    "code": "CHEM 101",
+    "name": "General Chemistry",
+    "department": "Chemistry",
+    "credits": 3,
+    "sections": [
+      {
+        "id": "chem101-a",
+        "sectionCode": "Sec A",
+        "instructor": "Prof. Linus Pauling",
+        "timeslots": [
+          { "day": "Monday", "startTime": "08:30", "endTime": "09:45" },
+          { "day": "Wednesday", "startTime": "08:30", "endTime": "09:45" }
+        ]
+      },
+      {
+        "id": "chem101-b",
+        "sectionCode": "Sec B",
+        "instructor": "Dr. Dorothy Hodgkin",
+        "timeslots": [
+          { "day": "Tuesday", "startTime": "15:30", "endTime": "16:45" },
+          { "day": "Thursday", "startTime": "15:30", "endTime": "16:45" }
+        ]
+      }
+    ]
+  }
+]
